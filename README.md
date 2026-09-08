@@ -238,3 +238,6 @@ This repository serves as the official landing page for Order & Chaos Online. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Order & Chaos Online today!**
+
+---
+**Last updated:** 2026-09-08 20:30:51 UTC

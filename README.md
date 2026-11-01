@@ -240,4 +240,4 @@ This repository serves as the official landing page for Order & Chaos Online. Th
 **Get the most recent version of Order & Chaos Online today!**
 
 ---
-**Last updated:** 2026-11-01 08:27:18 UTC
+**Last updated:** 2026-11-01 15:36:54 UTC
